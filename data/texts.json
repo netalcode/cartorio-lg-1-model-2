@@ -4,13 +4,13 @@
         "CNPJ": "11.350.196/0001-60"
     },
     "welcome": {
-        "title": "Sejam Bem-Vindos(a) ao 1º serviço notarial e registral de Salgueiro-pe",
+        "title": "Sejam Bem-Vindos(a) ao 1º serviço notarial e registral de Salgueiro-PE",
         "subtitle": "",
-        "body": ""
+        "body": "O Cartório do 1º Ofício, dispõe de um ambiente totalmente climatizado e com acessibilidade para atender os clientes de forma humanizada e com total conforto, guichês e senhas preferencial, localizado no Centro da cidade de fácil localização."
     },
     "features": {
         "title": "Nossos Serviços",
-        "body": "Texto em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "body": "",
         "list": [
             {
                 "id": "a3680236-a206-4b3b-845d-37d1f109f12b",
@@ -99,7 +99,7 @@
                 "îconHref": "/icons/services/1235.jpeg",
                 "title": "Lei geral de proteção de dados (LGPD)",
                 "subtitle": "",
-                "body": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia ",
+                "body": "Em agosto de 2020, foi o prazo limite para que todas as empresas e profissionais liberais que coletam ou rastreiam dados de usuários de alguma forma se adequassem a LGPD – Lei Geral de Proteção de Dados. Para sanar dúvidas, obter mais informações ou outras solicitações referentes a seus dados (correções, atualizações, etc.).",
                 "lgpd":{
                     "title":"Fale conosco",
                     "body":"Você  tem o direito de solicitar a retirada de seus dados pessoais não essenciais para a publicidade registral de nossos cadastros, obter informações ou fazer reclamações, entre em contato:"
@@ -110,7 +110,7 @@
                 "îconHref": "/icons/services/1235.jpeg",
                 "title": "Código de normas",
                 "subtitle": "",
-                "body": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "body": ""
             }
         ]
     },

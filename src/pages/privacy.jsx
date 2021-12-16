@@ -68,7 +68,7 @@ export default function Privacy() {
 
                     {mainContent && <div>
                         <h1>{mainContent.title}</h1>
-                        {/* <p>{mainContent.body}</p> */}
+                        <p>{mainContent.body ? mainContent.body : <Dev title="Texto em desenvolvimento"/>}</p>
                         {/* <Dev title=""/> */}
 
                     </div>}
