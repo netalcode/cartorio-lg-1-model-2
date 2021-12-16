@@ -23,7 +23,7 @@
         background: var(--brand-primary);
         padding: 3rem 0rem 3rem 1rem;
         align-items: flex-start;
-        color: var(--text-primary);
+        color: var(--text-tertiary);
         overflow-y: scroll;
 
         div {
@@ -91,6 +91,11 @@
                         font-weight: bold;
                         margin-bottom: 0.5rem;
 
+                    }
+                }
+                .btn{
+                    button{
+                        color: var(--text-tertiary);
                     }
                 }
             }

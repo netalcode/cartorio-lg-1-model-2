@@ -10,6 +10,7 @@ import Contact from "../components/Contact/Contact"
 
 const {title} = dataJSON.privacy
 const {emailLGPD} = dataJSON.contacts
+const email = "Email: "
 
 export default function Privacy() {
     const { privacy } = JSON.parse(JSON.stringify(dataJSON))
@@ -68,7 +69,7 @@ export default function Privacy() {
                     {mainContent && <div>
                         <h1>{mainContent.title}</h1>
                         {/* <p>{mainContent.body}</p> */}
-                        {/* <Dev /> */}
+                        {/* <Dev title=""/> */}
 
                     </div>}
                     
@@ -76,9 +77,13 @@ export default function Privacy() {
                         <section>
                             <h1>{dataJSON.privacy.list[0].lgpd.title}</h1>
                             <p>{dataJSON.privacy.list[0].lgpd.body}</p>
-                            <p className={styles.emailLGPD}>Email: {emailLGPD}</p>
+
+                            <p className={styles.emailLGPD}> {emailLGPD ? [email, emailLGPD]  : ""}</p>
+
                         </section>
-                        <Contact title=" " />
+                        <div className={styles.btn}>
+                            <Contact title=" " />
+                        </div>
                     </div>
                 </main>
             </section>
