@@ -28,12 +28,13 @@ a {
     /* white */
     --white: #ffffff;
     /* Backgrounds */
-    --brand-primary: #fff395;
+    --brand-primary: #1B98E0;
     --brand-secondary: #d6d6d6;
     --brand-tertiary: #f5f5f7;
     /* Texts */
     --text-primary: #353535;
     --text-secondary: #495057;
+    --text-tertiary: #ffffff;
     /* Status */
     --done: #2dccff;
     --success: #56f000;

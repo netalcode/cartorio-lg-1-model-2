@@ -5,7 +5,7 @@
         display: flex;
         justify-content: space-between;
         padding: 0 2rem 0 1rem;
-        color: var(--text-primary);
+        color: var(--text-tertiary);
         font-size: 0.8rem;
         background-color: var(--brand-primary);
         align-items: center;
@@ -102,7 +102,7 @@
                                 a {
                                     padding: 0.8rem;
                                     display: block;
-                                    color: var(--text);
+                                    color: var(--text-tertiary);
                                     transition: background 0.3s;
                                     &:hover {
                                         background-color: var(--options-hover-gray);

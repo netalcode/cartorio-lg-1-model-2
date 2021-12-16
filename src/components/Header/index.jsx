@@ -34,7 +34,7 @@ export default function Header() {
             <header>
                 <span>{`${street}, nº ${number} - ${district}. ${city}/${uf}. CEP: ${CEP}`}</span>
                 <div className={styles.whatsapp}>
-                    <img src="/icons/whatsapp_dark.svg" alt="Whatsapp" />
+                    <img src="/icons/whatsapp_light.svg" alt="Whatsapp" />
                     <a href={whats}  target="_blank" rel="noreferrer">
                         <span>{whatsapp}</span>
                     </a>
