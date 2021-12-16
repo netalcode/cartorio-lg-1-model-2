@@ -1,0 +1,27 @@
+{
+  "name": "cartorio-gloria-do-goita",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ./components/** ./pages/** -c .eslintrc.json --ext js,jsx",
+    "lint-fix": "eslint ./components/** ./pages/** -c .eslintrc.json --fix --ext js,jsx"
+  },
+  "dependencies": {
+    "next": "12.0.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@unform/core": "^2.1.6",
+    "@unform/web": "^2.1.6",
+    "axios": "^0.24.0",
+    "eslint": "7",
+    "eslint-config-next": "12.0.2",
+    "nodemailer": "^6.7.0",
+    "sass": "^1.43.4",
+    "yup": "^0.32.11"
+  }
+}

@@ -1,0 +1,103 @@
+{
+    "business": {
+        "fantasyName": "Serventia Registral e Notarial de Chã de Alegria ",
+        "CNPJ": "29.386.857/0001-73"
+    },
+    "welcome": {
+        "title": "O Cartório Chã de Alegria Tem o Prazer em Atendê-lo(a)",
+        "subtitle": "",
+        "body": "Há três anos servindo à população da melhor forma possível de modo a solucionar os conflitos e promover a melhor solução jurídica aos casos apresentados, com a presteza e segurança jurídica."
+    },
+    "features": {
+        "title": "Nossos Serviços",
+        "body": "Texto em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "list": [
+            {
+                "id": "a3680236-a206-4b3b-845d-37d1f109f12b",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Serviço 1",
+                "subtitle": "",
+                "body": "Descrição em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+            },
+            {
+                "id": "9be688fe-636d-42cd-adb3-ab47b2bac343",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Serviço 2",
+                "subtitle": "",
+                "body": "Descrição em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": "9c20ecd5-050f-4c48-bfee-b3a028f4935a",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Serviço 3",
+                "subtitle": "",
+                "body": "Descrição em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            },
+            {
+                "id": "77ffedd8-c784-47f2-adb5-990825bb8635",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Serviço 4",
+                "subtitle": "",
+                "body": "Descrição em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+            }
+        ]
+    },   
+    "privacy": {
+        "title": "Tópicos",
+        "list": [ 
+            {
+                "id": "a3680236-a206-4b3b-845d-37d1f109f12b",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Lei geral de proteção de dados (LGPD)",
+                "subtitle": "",
+                "body": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia ",
+                "lgpd":{
+                    "title":"Fale conosco",
+                    "body":"Você  tem o direito de solicitar a retirada de seus dados pessoais não essenciais para a publicidade registral de nossos cadastros, obter informações ou fazer reclamações, entre em contato pelo email, ou preencha o formulario abaixo."
+                }
+            },
+            {
+                "id": "9be688fe-636d-42cd-adb3-ab47b2bac343",
+                "îconHref": "/icons/services/1235.jpeg",
+                "title": "Código de normas",
+                "subtitle": "",
+                "body": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        ]
+    },
+    "about": {
+        "title": "Sobre Nós",
+        "subtitle": "",
+        "body": "Texto em edição... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut egestas nisl. Sed pretium enim nunc, at eleifend purus sodales non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus quis condimentum ex. Nullam non hendrerit risus. Suspendisse egestas nisi sed est consectetur, in hendrerit quam vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "address": {
+        "title": "Onde Estamos",
+        "street": "Rua do Rosário",
+        "number": "99",
+        "district": "Centro",
+        "city": "Chã de Alegria",
+        "uf": "PE",
+        "CEP": "55835-000",
+        "map": "https://www.google.com/maps/d/embed?mid=1xNzCmm35O5bXZODtUX9a3lcqptW74cz0&ehbc=2E312F"
+        
+
+    },
+    "contacts": {
+        "mainPhone": "(81) 3581-1041",
+        "phone2": "(81)9 8361-4707",
+        "phone3": "",
+        "whatsapp": "(81)9 8361-4707",
+        "email1": "cartoriounicochadealegria@gmail.com",
+        "emailLGPD": "dados.cartoriochadealegria@gmail.com"
+    },
+    "social": {
+        
+    },
+    "openingHours": {
+        "title": "Horário de funcionamento",
+        "days": "Segunda à sexta",
+        "ex": "",
+        "hour": "8h às 17h",
+        "plain": "Segunda à sexta, das 8h às 17h"
+    }
+}

@@ -1,0 +1,135 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(120deg, var(--gradient-init-blue), var(--gradient-finish-blue));
+    // padding: 5rem 4rem 3rem 3.25rem;
+    max-width: 64rem;
+
+
+    section:last-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex: 1;
+        
+        form {
+            display: flex;
+            flex-direction: column;
+            width: 90%;
+            margin: 0.5rem;
+
+            > strong:first-child {
+               
+                font-family: "Inter", sans-serif;
+                color: var(--text-primary);
+                font-size: 2.5rem;
+                margin-bottom: 2rem;
+                text-align:  center;
+            }
+            label {
+                color: var(--text-secondary);
+            }
+            .blockName {
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+                .name {
+                    display: flex;
+                    flex-direction: column;
+                    width: 35%;
+                }
+
+                .lastName {
+                    display: flex;
+                    flex-direction: column;
+                    width: 60%;
+                }
+            }
+
+            .status {
+                display: flex;
+                width: 100%;
+                justify-content: flex-end;
+                font-size: 0.8rem;
+                height: 1rem;
+
+                .done {
+                    color: var(--success);
+                }
+                .loading {
+                    color: var(--progress);
+                }
+                .error {
+                    color: var(--error);
+                }
+            }
+            // .btn{
+            //     margin-bottom: 0.5rem;
+
+            // }
+        }
+    }
+
+    @media (max-width: 1024px) {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        // padding: 5rem 4rem 3rem 3.25rem;
+
+        section:last-child {
+            align-items: start;
+            // padding: 2rem 1.5rem;
+            form {
+                width: 100%;
+            }
+        }
+    }
+
+    @media (max-width: 768px) {
+        // padding: 2rem 1.5em;
+
+        section:last-child {
+            padding: 0;
+            width: 100%;
+            // min-width: 1rem;
+
+            form {
+                max-width: 30rem;
+                strong:first-child {
+                    font-size: 1.5rem;
+                }
+
+                label {
+                    font-size: 0.75rem;
+                }
+                input {
+                    font-size: 0.75rem;
+                    height: 2rem;
+                }
+                .btn{
+                    button{
+                    font-size: 0.75rem;
+                    }
+                }
+            }
+        }
+    }
+
+
+    @media (max-width: 450px) {
+        section:last-child {
+            form {
+                max-width: 20rem;
+            }
+        }
+    }
+    
+    @media (max-width: 360px) {
+
+        section:last-child {
+            form {
+                max-width: 15rem;                
+            }
+        }
+    }   
+}

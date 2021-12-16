@@ -1,0 +1,97 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 3rem;
+    
+    .content {      
+        display: flex;
+        width: 100%;
+        height: 100%;
+        max-width: 64rem;
+        section:first-child {
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+
+            span {
+                color: var(--text-primary);
+                font-family: "Inter", sans-serif;
+                font-size: 2rem;
+                margin-bottom: 1.5rem;
+            }
+
+            p {
+                color: var(--text-secondary);
+                line-height: 1.8;
+                font-family: "Inter", sans-serif;
+                font-size: 1rem;
+                margin-bottom: 2rem;
+            }
+        }
+
+        section:last-child {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: start;
+            align-items: flex-end;
+
+            .dropContainer {
+                display: flex;
+                justify-content: flex-end;
+                width: 100%;
+
+                select {
+                    width: 6rem;
+                    height: 2.5rem;
+                    border-radius: 5px;
+                    border: none;
+                    margin-bottom: 1.5rem;
+                    background-color: var(--brand-primary);
+                    color: var(--white);
+                    font-weight: 400;
+                    font-size: 1.2rem;
+                    font-family: "Inter", sans-serif;
+                }
+            }
+        }
+
+        @media (max-width: 1024px) {
+            display: flex;
+            flex-direction: column;
+            section:first-child {
+                flex: 0;
+                height: min-content;
+                strong {
+                    font-size: 2rem;
+                }
+                p {
+                    font-size: 1rem;
+                }
+            }
+            section:last-child {
+                align-items: center;
+            }
+        }
+
+        @media (max-width: 768px) {
+            padding: 3.25rem 1rem;
+            section:first-child {
+                flex: 0;
+                height: min-content;
+            }
+
+            section:last-child {
+                .dropContainer {
+                    select {
+                        width: 4rem;
+                        height: 1.8rem;
+                        font-size: 0.8rem;
+                    }
+                }
+            }
+        }
+    }
+}

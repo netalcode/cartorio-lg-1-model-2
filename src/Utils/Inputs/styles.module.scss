@@ -1,0 +1,47 @@
+.inputText, .textArea {
+    display: flex;
+    flex-direction: column;
+    font-family: "Inter", sans-serif;
+    color: var(--text);
+ 
+    
+    span {
+        display: flex;
+        justify-content: end;
+        font-size: 0.625rem;
+    }
+    
+    input {
+        color: var(--text);
+        font-size: 1rem;
+        border: none;
+        border-radius: 5px;
+        height: 2.2rem;
+        background-color: var(--white);
+        margin: 0.5rem 0;
+        // outline: 2px solid var(--border-gray);
+        outline: none;
+        padding: 0 0.5rem;
+        justify-content: start;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.25);
+        
+    }
+}
+
+.textArea {
+    // width: 100%;
+    textarea {
+        color: var(--text);
+        font-size: 1rem;
+        border: none;
+        border-radius: 5px;
+        background-color: var(--white);
+        margin: 0.5rem 0;
+        // outline: 2px solid var(--border-gray);
+        outline: none;
+        padding: 0.5rem 0.5rem;
+        resize: none;
+        box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.25);
+
+    }
+}

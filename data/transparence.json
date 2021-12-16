@@ -1,0 +1,11 @@
+ [
+    {"id": "63b00f66-3524-4233-a942-a09c3c06fed0", "ref": "Janeiro", "emol": "R$ 20.571,01", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.395,58" },
+    {"id": "4b57f0ff-094f-4155-ad68-3a701fe4ede5", "ref": "Fevereiro", "emol": "R$ 2.579,03", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.810,80" },
+    {"id": "ae174d8d-b4ef-44ba-8e7e-18c6622a9dd5", "ref": "Março", "emol": "R$ 19.610,96", "outrasRec": "R$ 0,00 ", "desp": "R$ 4.943,78" },
+    {"id": "db48683d-857f-4fa6-926a-0e541428083b", "ref": "Abril", "emol": "R$ 11.421,15", "outrasRec": "R$ 0,00 ", "desp": "R$ 6.481,36" },
+    {"id": "952b7cb5-b98a-4542-914a-5b46f5419f8c", "ref": "Maio", "emol": "R$ 11.710,32", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.233,54" },
+    {"id": "45478d92-0d1a-4a46-8d80-e59b80989300", "ref": "Junho", "emol": "R$ 34.743.13", "outrasRec": "R$ 0,00 ", "desp": "R$ 6.397,20" },
+    {"id": "adfb1be2-4526-4980-b615-4ffe1ffbb9e9", "ref": "Julho", "emol": "R$ 23.799,03", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.643,85" },
+    {"id": "a047f9a4-7694-442f-bd3f-3a2e129a4268", "ref": "Agosto", "emol": "R$ 18.877,59", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.132,01" },
+    {"id": "d3cea0c0-81f5-4e5e-a7b4-f6a9754f642d", "ref": "Setembro", "emol": "R$ 16.349,81", "outrasRec": "R$ 0,00 ", "desp": "R$ 5.047,44" }
+]
