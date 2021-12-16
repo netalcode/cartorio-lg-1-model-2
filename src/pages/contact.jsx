@@ -5,8 +5,9 @@ export default function Privacy() {
     return (
         <div className={styles.container}>
                 
-            <Contact/>
-        
+            <div className={styles.btn}>
+                <Contact/>
+            </div>
         </div>
     )
 
