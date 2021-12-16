@@ -56,11 +56,11 @@ export default function Feature() {
 
             <main onClick={() => navRef.current.classList.remove(styles["active"])}>
                 <div className={styles.dev}>
-                    <Dev />
+                    {/* <Dev /> */}
                 </div>
                 {mainContent && <div>
                     <h1>{mainContent.title}</h1>
-                    <p>{mainContent.body}</p>
+                    <p>{(mainContent.body) ? mainContent.body  : <Dev title="Texto em desenvolvimento"/>}</p>
                 </div>}
             </main>
         </div>
