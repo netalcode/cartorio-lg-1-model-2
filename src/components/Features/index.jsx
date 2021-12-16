@@ -39,7 +39,7 @@ export default function Features() {
             </div>
 
             <div className={styles.btn}>
-                <Button type={["seeAll"]} func={() => router.push("/features") } />
+                <Button type={["seeAll"] } color={"blue"} func={() => router.push("/features") } />
             </div>
         </div>
     )

@@ -79,22 +79,7 @@ export default function Button({ type, label = "", func, ...rest }) {
           {...rest}
         >
           Ver todos
-          {/* <img src="/icons/go.svg" alt="Ver todos"  /> */}
-          <svg
-            width="16"
-            height="12"
-            viewBox="0 0 16 12"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M1 6H15M15 6L9.75 1M15 6L9.75 11"
-              
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
+          <img src="/icons/go.svg" alt="Ver todos"  />
         </button>
       );
     },
