@@ -4,9 +4,9 @@
         "CNPJ": "11.350.196/0001-60"
     },
     "welcome": {
-        "title": "Sejam Bem-Vindos(a) ao 1º serviço notarial e registral de Salgueiro-PE",
+        "title": "Seja Bem-Vindo(a) ao 1º serviço notarial e registral de Salgueiro-PE",
         "subtitle": "",
-        "body": "O Cartório do 1º Ofício, dispõe de um ambiente totalmente climatizado e com acessibilidade para atender os clientes de forma humanizada e com total conforto, guichês e senhas preferencial, localizado no Centro da cidade de fácil localização."
+        "body": "O Cartório do 1º Ofício, dispõe de um ambiente totalmente climatizado e com acessibilidade para atendê-los de forma humanizada e com total conforto, guichês e senhas preferenciais, situado no Centro da cidade de Salgueiro Pernambuco, para fácil localização."
     },
     "features": {
         "title": "Nossos Serviços",
@@ -17,7 +17,7 @@
                 "îconHref": "/icons/services/1235.jpeg",
                 "title": "União estável",
                 "subtitle": "",
-                "body": "União estável é quando duas pessoas possuem uma relação de convivência a um tempo considerável e que revelem o desejo de permanecerem juntos com o objetivo de estabelecer uma família.O Código Civil e a Lei 9.278 de 1996, conhecida como Lei da União Estável, dizem que 'é a convivência pública, contínua e duradoura estabelecida com o objetivo de constituir família', ou seja, ela é reconhecida como entidade familiar. Entretanto, nenhuma das leis estabelece o prazo mínimo que um casal precisa conviver para ser considerado estável."
+                "body": "União estável é quando duas pessoas possuem uma relação de convivência a um tempo considerável e que revelem o desejo de permanecerem juntos com o objetivo de estabelecer uma família. O Código Civil e a Lei 9.278 de 1996, conhecida como Lei da União Estável, dizem que 'é a convivência pública, contínua e duradoura estabelecida com o objetivo de constituir família', ou seja, ela é reconhecida como entidade familiar. Entretanto, nenhuma das leis estabelece o prazo mínimo que um casal precisa conviver para ser considerado estável."
             },
             {
                 "id": "9be688fe-636d-42cd-adb3-ab47b2bac343",
